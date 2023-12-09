@@ -1,0 +1,19 @@
+# Transfer loss related
+transfer_loss1_weight: 0.5
+transfer_loss2_weight: 1.0
+
+# Optimizer related
+lr: 1e-2
+weight_decay: 5e-4
+lr_scheduler: True
+lr_gamma: 0.0003
+lr_decay: 0.75
+momentum: 0.9
+
+# Training related
+n_iter_per_epoch: 500
+n_epoch: 20
+
+# Others
+seed: 1
+num_workers: 3
