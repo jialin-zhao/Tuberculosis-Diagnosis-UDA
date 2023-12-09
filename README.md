@@ -2,6 +2,23 @@
 
 ## data
 
+json
+```bash
+  - train
+    - source
+      - NM
+      - TB
+      - NTN
+    - target
+      - NM
+      - TB
+      - NTN
+  - test
+    - target
+      - NM
+      - TB
+      - NTN
+
 ## usage
 
 ```bash
