@@ -1,5 +1,7 @@
 # Tuberculosis-Diagnosis-UDA
 
+An unsupervised domain adaptation method for tuberculosis classification in CXR images.
+
 ## data
 
 json
