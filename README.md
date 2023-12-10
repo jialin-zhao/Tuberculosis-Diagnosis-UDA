@@ -6,8 +6,6 @@ An unsupervised domain adaptation method for tuberculosis classification in CXR 
 
 ## data
 
-- DRRs generation: We employ a parallel projection model [1] to generate DRR images from CT images.
-
 - The model reads the dataset in the format of a JSON file
   ```bash
   - train
