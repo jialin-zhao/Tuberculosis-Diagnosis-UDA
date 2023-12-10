@@ -23,7 +23,6 @@ An unsupervised domain adaptation method for tuberculosis classification in CXR 
       - TB
       - NTN
   
-
 ## usage
 
 - Collect the data you need and store it in the `/data`, and then create a JSON file
